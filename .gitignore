@@ -2,3 +2,10 @@
 .idea/
 #virtual env
 env/
+
+#Database
+db.sqlite3
+
+#Migrations
+blog/migrations/
+
